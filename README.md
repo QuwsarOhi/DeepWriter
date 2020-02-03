@@ -1,5 +1,5 @@
 # DeepWriter
-Implementation of ["DeepWriter: A Multi-Stream Deep CNN for Text-independent Writer Identification"](https://arxiv.org/abs/1606.06472])
+Implementation of ["DeepWriter: A Multi-Stream Deep CNN for Text-independent Writer Identification"](https://arxiv.org/abs/1606.06472)
 
 Contains the DeepWriter and HalfDeepWriter network architecture implementation.
 A random image stripping is also implemented.
